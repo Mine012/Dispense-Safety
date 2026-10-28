@@ -2,7 +2,7 @@
   <!-- Substitua o link abaixo pelo caminho da logo de vocês. Ex: ./assets/logo.png -->
   <img src="logo.png" alt="Logo da equipe Vexto EPI" width="250">
   
-  <h1>Vexto EPI's - Vending Machine 🛠️🥽</h1>
+  <h1>Vexto EPI's - Dispense Safety 🛠️🥽</h1>
   <h3>Desenvolvido por: Equipe Vexto EPI</h3>
 </div>
 
@@ -12,10 +12,10 @@
 
 Nossa equipe **Vexto EPI** é formada por:
 
-*   **Alvaro:** Back-End & Full Stack
-*   **Jasmine:** Banco de Dados & Analista
-*   **Flávia:** Front-End & Design
-*   **Emanuelli:** Front-End & Design
+*   **Alvaro Augusto da Silva Netto:** Back-End & Full Stack
+*   **Jasmine de Lucca Izzi:** Banco de Dados & Analista
+*   **Flávia Kamila de Almeida:** Front-End & Design
+*   **Emanuelli Vitória da Silva Couto:** Front-End & Design
 
 ---
 
@@ -44,7 +44,7 @@ Facilitar o acesso aos EPIs utilizados diariamente (como luvas, máscaras, ócul
 - [x] Processamento rápido da escolha e dispensação do EPI.
 - [x] Capacidade física adequada para armazenar quantidades razoáveis de EPIs específicos do local.
 
-## 🛠️ Tecnologias e Componentes Físicos
+## Tecnologias e Componentes Físicos
 
 **Software & Arquitetura:**
 - **Back-end:** Python 3.12 (Processamento, API e controle de hardware).
@@ -52,7 +52,7 @@ Facilitar o acesso aos EPIs utilizados diariamente (como luvas, máscaras, ócul
 - **Banco de Dados:** Armazenamento do estoque, perfil de usuários e logs de retirada.
 
 **Hardware & Eletrônica:**
-- **Microcontroladores:** ESP32.
+- **Microcontroladores:** DOIT ESP32 DEVKIT V1.
 - **Motores:** 3 Motores de Passo (NEMA 17) para a dispensação.
 - **Drivers:** 3 Drivers A4988.
 - **Alimentação:** 1 Fonte Chaveada AC/DC 110/220V para 12V (aprox. 5A).
@@ -77,7 +77,7 @@ Facilitar o acesso aos EPIs utilizados diariamente (como luvas, máscaras, ócul
 *   **Planilha de Horários:** [Acessar Planilha](https://docs.google.com/spreadsheets/d/1gym4NLa96sAwihr2PyEZ0My6c4sp_wIlvi9zlQyorvI/edit?usp=sharing)
 *   **Histórico de Sprints (Kanban):** [Acessar Sprints](https://docs.google.com/document/d/1r8bNzeANFXBZWiFE8Es-8MMRaFy1rL3dGxqvrFLySLE/edit?usp=sharing)
 *   **Apresentação do Projeto:** [Acessar Apresentação no Canva](https://canva.link/2x89k4jcep4gnu5)
-*   **Roteiros e Documentação:** [Acessar Documento](https://docs.google.com/document/d/1ZHl_yuspQVoM2-Kjh01sNACVQwc9-rzo5oPT9Uc6skw/edit?usp=sharing)
+*   **Roteiros:** [Acessar Documento](https://docs.google.com/document/d/1ZHl_yuspQVoM2-Kjh01sNACVQwc9-rzo5oPT9Uc6skw/edit?usp=sharing)
 
   <br>
   <div align="center">
@@ -88,7 +88,9 @@ Facilitar o acesso aos EPIs utilizados diariamente (como luvas, máscaras, ócul
 </div>
 
 <br>
-   
 
+   ##Considerações finais 
+
+   
 ---
 *Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) do curso técnico de Desenvolvimento de Sistemas do SENAI.*
