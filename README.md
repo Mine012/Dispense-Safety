@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua o link abaixo pelo caminho da logo de vocês. Ex: ./assets/logo.png -->
-  <img src="caminho_para_a_sua_logo/logo.png" alt="Logo da equipe Vexto EPI" width="250">
+  <img src="logo.png" alt="Logo da equipe Vexto EPI" width="250">
   
   <h1>Vexto EPI's - Vending Machine 🛠️🥽</h1>
   <h3>Desenvolvido por: Equipe Vexto EPI</h3>
