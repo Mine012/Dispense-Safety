@@ -78,7 +78,18 @@ Facilitar o acesso aos EPIs utilizados diariamente (como luvas, máscaras, ócul
 *   **Histórico de Sprints (Kanban):** [Acessar Sprints](https://docs.google.com/document/d/1r8bNzeANFXBZWiFE8Es-8MMRaFy1rL3dGxqvrFLySLE/edit?usp=sharing)
 *   **Apresentação do Projeto:** [Acessar Apresentação no Canva](https://canva.link/2x89k4jcep4gnu5)
 *   **Roteiros e Documentação:** [Acessar Documento](https://docs.google.com/document/d/1ZHl_yuspQVoM2-Kjh01sNACVQwc9-rzo5oPT9Uc6skw/edit?usp=sharing)
-*   **Landing Page:** O acesso rápido também pode ser feito escaneando o arquivo`qrcode_landingPage.png` disponível nos arquivos do projeto.
+
+  <br>
+  <div align="center">
+ **Landing Page:** O acesso rápido também pode ser feito escaneando o arquivo`qrcode_landingPage.png` disponível nos arquivos do projeto.
+  <img src="qrCodeLandingPage.png" alt="Logo da equipe Vexto EPI" width="250">
+  
+  <h1>Vexto EPI's - Vending Machine 🛠️🥽</h1>
+  <h3>Desenvolvido por: Equipe Vexto EPI</h3>
+</div>
+
+<br>
+   
 
 ---
 *Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) do curso técnico de Desenvolvimento de Sistemas do SENAI.*
