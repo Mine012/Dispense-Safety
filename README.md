@@ -83,10 +83,8 @@ Facilitar o acesso aos EPIs utilizados diariamente (como luvas, máscaras, ócul
   <div align="center">
  Landing Page: O acesso rápido também pode ser feito escaneando o Qr Code a baixo.
     <br>
-  <img src="qrCodeLandingPage.png" alt="Logo da equipe Vexto EPI" width="125">
+  <img border-radius="15px" src="qrCodeLandingPage.png" alt="QrCode Da landing Page do projeto" width="150">
   
-  <h1>Vexto EPI's - Vending Machine 🛠️🥽</h1>
-  <h3>Desenvolvido por: Equipe Vexto EPI</h3>
 </div>
 
 <br>
