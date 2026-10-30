@@ -89,7 +89,7 @@ Facilitar o acesso aos EPIs utilizados diariamente (como luvas, máscaras, ócul
 
 <br>
 
-##Considerações finais 
+## Considerações finais 
    Ao longo dos meses produzindo o nosso projeto, abrangemos diversos dos conteúdos aprendidos no curso de Desenvolvimento de sistemas e ao integrar o hardware e software, aprendemos também um pouco do que não vemos no nosso curso, tornando-se desafiante e ao mesmo tempo nosso conhecimento crescente. Todos os integrantes trabalharam bem em conjunto tornando o nosso projeto possível. Com o propósito de ser eficaz, nosso Dispense Safety trouxe para a equipe valores e formas de pensar que revolucionam a nossa visão sobre o impacto da tecnologia no cotidiano das pessoas e das empresas.
 
    
